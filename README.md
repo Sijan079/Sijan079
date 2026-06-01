@@ -1,18 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Artsijan Yu</h1> <h3 align="center">Aspiring AI Software Engineer</h3>
+About Me
+I'm building my skills in software engineering with a focus on practical AI-powered tools. I'm interested in using AI APIs to create useful applications and gradually expanding into automation workflows.
 
-<h1 align="center">Hi 👋, I'm Artsijan Yu</h1>
-<h3 align="center">aspiring game developer</h3>
+Currently exploring AI-assisted software development with Codex and Claude
+Building desktop tools and learning through hands-on projects
+Growing toward a career in AI software engineering
+Tech Stack
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="42" height="42" /> </p>
+AI APIs and tools: Codex, Claude
 
-- 🌱 I’m currently learning **C++, Java, Python**
+Featured Project
+Modly
+Private project
 
-- 📫 How to reach me **yuartsijan@gmail.com**
+Modly is a desktop Minecraft instance and mod manager for organizing profiles, auditing mods, checking updates, and editing configuration files from one focused workspace.
 
-- ⚡ Fun fact **Sound travels about 4 times faster in water than in air.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/artsijan yu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="artsijan yu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Contact
+Email: yuartsijan@gmail.com
