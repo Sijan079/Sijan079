@@ -1,19 +1,44 @@
-<h1 align="center">Hi, I'm Artsijan Yu</h1> <h3 align="center">Aspiring AI Software Engineer</h3>
-About Me
-I'm building my skills in software engineering with a focus on practical AI-powered tools. I'm interested in using AI APIs to create useful applications and gradually expanding into automation workflows.
+<div align="center">
+  <img src="./assets/portfolio-banner.svg" alt="Artsijan Yu - Aspiring AI Software Engineer" width="100%" />
+</div>
 
-Currently exploring AI-assisted software development with Codex and Claude
-Building desktop tools and learning through hands-on projects
-Growing toward a career in AI software engineering
-Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="42" height="42" /> </p>
-AI APIs and tools: Codex, Claude
+<br />
 
-Featured Project
-Modly
-Private project
+<div align="center">
+  Exploring how AI APIs can turn focused ideas into useful software.<br />
+  Building practical tools, strengthening my engineering foundations, and gradually expanding into automation workflows.
+</div>
+
+---
+
+## About Me
+
+| Current Focus | Building | Growing Into |
+| --- | --- | --- |
+| AI-assisted software development | Focused desktop tools and hands-on projects | AI engineering and automation workflows |
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+**AI APIs and tools:** Codex, Claude
+
+## Featured Project
+
+### Modly
+
+![Private Project](https://img.shields.io/badge/status-private_project-6E7681?style=flat-square)
 
 Modly is a desktop Minecraft instance and mod manager for organizing profiles, auditing mods, checking updates, and editing configuration files from one focused workspace.
 
-Contact
-Email: yuartsijan@gmail.com
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-yuartsijan%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:yuartsijan@gmail.com)
