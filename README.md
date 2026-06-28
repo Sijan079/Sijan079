@@ -27,17 +27,28 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
 </p>
 
-**AI APIs and tools:** Codex, Claude
+## AI Agents 
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-OpenAI-000000?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex" />
+</p>
 
-## Featured Project
+## Featured Projects
 
-### Modly
+### [Modly](https://github.com/Sijan079/Modly)
 
-![Private Project](https://img.shields.io/badge/status-private_project-6E7681?style=flat-square)
+![Public Project](https://img.shields.io/badge/status-public\_project-238636?style=flat-square)
 
 Modly is a desktop Minecraft instance and mod manager for organizing profiles, auditing mods, checking updates, and editing configuration files from one focused workspace.
+
+### [WorshipFlow](https://github.com/Sijan079/WorshipFlow)
+
+![Public Project](https://img.shields.io/badge/status-public\_project-238636?style=flat-square)
+
+WorshipFlow is a worship planning project that helps organize services and keep key planning details in one place.
 
 ## Contact
 
