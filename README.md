@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/portfolio-banner.svg" alt="Artsijan Yu - IT & Software Development" width="100%" />
+  <img src="./assets/github_portfolio_banner.png" alt="Artsijan Yu - IT & Software Development" width="100%" />
 </div>
 
 <br />
