@@ -50,12 +50,6 @@
 
 ## Featured Projects
 
-### [Modly](https://github.com/Sijan079/Modly)
-
-![Public Project](https://img.shields.io/badge/status-public_project-238636?style=flat-square)
-
-Desktop Minecraft instance and mod manager for organizing profiles, auditing mods, checking updates, and editing configuration files from one focused workspace.
-
 ### [WorshipFlow](https://github.com/Sijan079/WorshipFlow)
 
 ![Public Project](https://img.shields.io/badge/status-public_project-238636?style=flat-square)
